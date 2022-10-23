@@ -23,7 +23,6 @@ boxesNew.style.display = "flex";
 boxesNew.style.flexDirection = "row";
 boxesNew.style.gap = "10px";
 boxesNew.style.alignItems= "flex-end"
-
 }
 
 destroyBtn.addEventListener('click', deleteBoxes);
@@ -31,3 +30,4 @@ destroyBtn.addEventListener('click', deleteBoxes);
 function deleteBoxes(event) {
   boxesNew.innerHTML = "";
 }
+ 
