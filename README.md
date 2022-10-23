@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # goit-js-hw-06
 Задание 1
 В HTML есть список категорий ul#categories.
